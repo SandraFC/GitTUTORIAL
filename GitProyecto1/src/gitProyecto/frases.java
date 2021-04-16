@@ -19,7 +19,7 @@ public class frases {
 	String pellido1 =" ";
 	String pellido2 =" ";
 	String nombrecompleto = " ";
-	String espacio = " ";
+	String espacioS = " ";
 
 	
 	
