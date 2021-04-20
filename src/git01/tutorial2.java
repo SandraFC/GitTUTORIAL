@@ -1,6 +1,9 @@
 package git01;
 
-public class tutorial2 {
-	System.out.println("Nuevo java");
+import java.io.IOException;
 
+public class tutorial2 {
+	public static void main(String[] args) throws IOException {
+	System.out.println("Nuevo java");
+	}
 }
