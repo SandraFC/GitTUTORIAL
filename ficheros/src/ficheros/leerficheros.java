@@ -37,6 +37,8 @@ public class leerficheros {
 
         } catch (IOException e) {
             e.printStackTrace();
+    		System.out.println("No se ha encontrado el fichero");
+
         } 
 
 
